@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhrawat521" alt="saurabhrawat521" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="<div style="max-width: 800px;"><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75%;"><iframe src="https://dribbble.com/shots/7098513-TED-ED-Mind-Uploading/player" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div>">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/l3vR85PnGsBwu1PFK">
 
 - 📫 How to reach me **saurabhrawat521@gmail.com**
 
