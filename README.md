@@ -1,4 +1,3 @@
-[![MasterHead](https://sn3301files.storage.live.com/y4mJCLF9GaRHCb_emJSPZSWQ9HOD5GZLOGmtRa27ULbbZaxksLBgW_lRO_EGhmcszphTn9i0sNzcSNjrItnX0vFd_ku9GqXxCl6v1jZ9QPC9ucd-pVMDJDNDsowRAHGIIK1GkUmCkn6I9t-DaKjLpLAtTzhZFLsLLW8lMMFOd-DDW46MIbXAtiM3YBK1IfztEKF?width=1280&height=720&cropmode=none)](https://saurabhrawat521.github.io)
 <h1 align="center">Hi 👋, I'm Saurabh Rawat</h1>
 <h3 align="center">Where there is a "Try", there is an "Exception"...</h3>
 
@@ -6,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhrawat521" alt="saurabhrawat521" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="//cdn.embedly.com/widgets/platform.js">
+<img align="right" alt="Coding" width="400" src="<div style="max-width: 800px;"><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75%;"><iframe src="https://dribbble.com/shots/7098513-TED-ED-Mind-Uploading/player" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div>">
 
 - 📫 How to reach me **saurabhrawat521@gmail.com**
 
