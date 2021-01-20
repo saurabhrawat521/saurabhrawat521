@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saurabhrawat521@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD///**
+- ⚡ Fun fact **I think I am doomed XD///**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
